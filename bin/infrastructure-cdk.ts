@@ -10,7 +10,7 @@ import {RedashServerStack} from "../lib/redash-server-stack";
 import {ServiceDiscoveryStack} from "../lib/service-discovery-stack";
 import {Ec2StepServerStack} from "../lib/ec2-step-server-stack";
 
-const account = '617995924773';
+const account = 'xxx';
 
 const env = {
   region: 'ap-northeast-1',
